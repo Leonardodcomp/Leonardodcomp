@@ -1,7 +1,7 @@
 # 🧑🏽‍💻 Leonardo Silva
 **`AI Student and Researcher`**
 
-Me chamo Leonardo Souza Silva, graduado em Matemática, tenho grande interesse na área de Dados, Machine Learning e IA. Atualmente, estou em processo de especialização na área, cursando Engenharia de Computação na UFS.
+Meu nome é Leonardo Souza Silva, sou graduado em Matemática e atualmente mestrando em Ciência da Computação pela UFS, com pesquisa voltada para Redes Neurais e Deep Learning aplicados a dados espaço-temporais. Tenho interesse nas áreas de Dados, Machine Learning e Inteligência Artificial, buscando integrar minha formação em Matemática aos conhecimentos de Computação para desenvolver soluções baseadas em dados e IA. Atualmente, também curso Engenharia de Computação na UFS, ampliando minha formação na área de tecnologia.
 
 <p align="left">
     <a href="https://linkedin.com/in/leonardo-silva-baa541272">
